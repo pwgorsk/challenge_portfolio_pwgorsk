@@ -3,4 +3,4 @@
 9/10
 
 ## Subtask 3
-bardzo chcę nauczyć się czegoś nowego 
+jestem Przemek i chcę nauczyć się czegoś nowego 
