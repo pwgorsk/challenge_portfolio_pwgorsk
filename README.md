@@ -49,6 +49,7 @@ https://user-images.githubusercontent.com/121874446/213018011-7e378ce8-cdeb-4c27
 
 
 Podobnie sytuacja wygląda w oknach „Mecze” i „Raporty”, można wpisać każdą wartość w pola nazwy drużyn zawodnika i przeciwnika oraz nazwy ligi. 
+W raporcie meczu można wyklikać nieograniczoną liczba połów danego meczu
 
 
 https://user-images.githubusercontent.com/121874446/213017779-e2194b14-2d4b-4453-bfea-8c5e4b03bc3c.mp4
