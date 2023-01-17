@@ -55,3 +55,12 @@ W raporcie meczu można wyklikać nieograniczoną liczba połów danego meczu
 https://user-images.githubusercontent.com/121874446/213017779-e2194b14-2d4b-4453-bfea-8c5e4b03bc3c.mp4
 
 https://user-images.githubusercontent.com/121874446/213017784-b4f9cc95-2b85-486b-a856-80bbc922117c.mp4
+
+
+Sekcje "Mecze" i "Raporty" są niedostosowane do urządzeń mobilnych, przykłady:
+
+
+https://user-images.githubusercontent.com/121874446/213022131-fceb2790-fb70-47ee-af0e-6166b8114674.mp4
+
+https://user-images.githubusercontent.com/121874446/213022147-5d864856-866b-498a-a3eb-f86db72c8372.mp4
+
