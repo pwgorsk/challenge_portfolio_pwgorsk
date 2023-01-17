@@ -40,9 +40,6 @@ Można wpisać datę urodzenia zawodnika w przyszłości lub dalekiej przeszło�
 
 Załączniki:
 
-https://user-images.githubusercontent.com/121874446/213017779-e2194b14-2d4b-4453-bfea-8c5e4b03bc3c.mp4
-
-https://user-images.githubusercontent.com/121874446/213017784-b4f9cc95-2b85-486b-a856-80bbc922117c.mp4
 
 https://user-images.githubusercontent.com/121874446/213018011-7e378ce8-cdeb-4c27-bf22-a57e580f8313.mp4
 
@@ -51,6 +48,9 @@ https://user-images.githubusercontent.com/121874446/213018011-7e378ce8-cdeb-4c27
 ![wqielk](https://user-images.githubusercontent.com/121874446/213018133-f6ad3163-067c-48f8-9ef9-99ac9377639d.png)
 
 
-
-
 Podobnie sytuacja wygląda w oknach „Mecze” i „Raporty”, można wpisać każdą wartość w pola nazwy drużyn zawodnika i przeciwnika oraz nazwy ligi. 
+
+
+https://user-images.githubusercontent.com/121874446/213017779-e2194b14-2d4b-4453-bfea-8c5e4b03bc3c.mp4
+
+https://user-images.githubusercontent.com/121874446/213017784-b4f9cc95-2b85-486b-a856-80bbc922117c.mp4
