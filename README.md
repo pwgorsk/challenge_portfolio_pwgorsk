@@ -1,6 +1,6 @@
 # TASK 2
 ## Subtask 1 i Subtask 2
-https://drive.google.com/drive/folders/12LkkA6V8y1uiDD9lDpnKcIwNv79WONsj?usp=sharing
+[zadania umieszczone na dysku google] <https://drive.google.com/drive/folders/12LkkA6V8y1uiDD9lDpnKcIwNv79WONsj?usp=sharing>
 
 ## Subtask 3
 Po co piszemy test case'y? Żeby lepiej ułożyć sobie pracę przy sprawdzaniu czy funkcje działają zgodnie z założeniami, i żeby podczas testowania nie umknął nam żaden szczegół. 
