@@ -1,3 +1,8 @@
+# TASK 3 
+### Substask 1, Subtask 2, Subtask 3
+
+[link do dysku google](https://drive.google.com/drive/u/1/folders/1722j7Bi5YRtN_7tYAAQVVONHKxvDc8z1)
+
 # TASK 2
 ## Subtask 1 i Subtask 2
 [link do dysku google](https://drive.google.com/drive/folders/12LkkA6V8y1uiDD9lDpnKcIwNv79WONsj?usp=sharing)
