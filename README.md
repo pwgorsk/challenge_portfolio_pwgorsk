@@ -1,5 +1,10 @@
+#TASK 4
+### Subtask 2
+
+[link do dysku google](https://docs.google.com/spreadsheets/d/1SZvqOmj_44TFptxB59WusmoCOqz6dBQIO5-nncD-aDI/edit?usp=sharing)
+
 # TASK 3 
-### Substask 1, Subtask 2, Subtask 3
+### Subtask 1, Subtask 2, Subtask 3
 
 [link do dysku google](https://drive.google.com/drive/u/1/folders/1722j7Bi5YRtN_7tYAAQVVONHKxvDc8z1)
 
