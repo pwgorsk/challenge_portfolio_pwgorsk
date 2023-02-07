@@ -1,12 +1,29 @@
 # TASK 4
-### Subtask 2
+### Subtask 1 i 2
 
 [link do dysku google](https://docs.google.com/spreadsheets/d/1SZvqOmj_44TFptxB59WusmoCOqz6dBQIO5-nncD-aDI/edit?usp=sharing)
+
+### Subtask 3
+#### Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?
+do łączenia osób, które mają coś do zaoferowania, z osobami które czegoś szukają 
+#### Kto ma być użytkownikiem końcowym aplikacji?
+każda osoba korzystająca z internetu 
+#### Czy według Ciebie aplikacja jest user friendly?
+tak, jest zaprojektowana intuicyjnie, nie wymaga doświadczenia w korzystaniu z apliakcji i charakteryzuje się dużą łatwością w znalezieniu czego szuka użytkownik_
+#### Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność?
+poprawiłbym sekcję wprowadzania informacji o użytkowniku w sekcji "SZUKAM PRACY", gdzie znalazłem kilka błędów, które opisałem w Subtasku 2 
+#### Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
+testowanie aplikacji internetowej za pomocą przeglądarki pozwala na więcej możliwości ze względu na narzędzia dla programistów, możliwość sprawdzenia elementów kodu czy np. na możliwość sprawdzenie wersji mobilnej w przeglądarce internetowej, jest mi też łatwiej zapisywać znalezione błędy
+
+
+===
 
 # TASK 3 
 ### Subtask 1, Subtask 2, Subtask 3
 
 [link do dysku google](https://drive.google.com/drive/u/1/folders/1722j7Bi5YRtN_7tYAAQVVONHKxvDc8z1)
+
+===
 
 # TASK 2
 ## Subtask 1 i Subtask 2
