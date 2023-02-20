@@ -1,3 +1,12 @@
+# TASK 6
+### Subtask 1
+#### 11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd
+UPDATE customers SET surname='Miler' WHERE customer_id='3'
+![image](https://user-images.githubusercontent.com/121874446/220212832-d337f83a-0068-4cff-82fe-d0cb0c8ec0b8.png)
+
+#### 12. 
+
+
 # TASK 5
 ### Subtask 3 
 #### 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
