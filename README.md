@@ -1,10 +1,32 @@
 # TASK 6
 ### Subtask 1
 #### 11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd
+
 UPDATE customers SET surname='Miler' WHERE customer_id='3'
+
 ![image](https://user-images.githubusercontent.com/121874446/220212832-d337f83a-0068-4cff-82fe-d0cb0c8ec0b8.png)
 
-#### 12. 
+#### 12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila.
+
+SELECT * FROM `sale` JOIN customers WHERE movie_id=4;
+
+![image](https://user-images.githubusercontent.com/121874446/220454534-7afed0b8-ff4d-48f7-a78d-0a62bb654ea9.png)
+
+#### 13. Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com
+
+UPDATE customers SET email='pati@mail.com' WHERE customer_id='4';
+
+![image](https://user-images.githubusercontent.com/121874446/220454901-8b486e0d-3540-42eb-8e59-ec42300ead66.png)
+
+#### 14. Dla każdego zakupu wyświetl, imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu.
+
+SELECT * FROM `sale` INNER JOIN customers, movies;
+
+![image](https://user-images.githubusercontent.com/121874446/220455209-ae178860-1d60-4b17-980c-ffa6c88acc84.png)
+
+#### 15. 
+
+
 
 
 # TASK 5
