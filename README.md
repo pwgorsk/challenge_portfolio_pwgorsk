@@ -24,7 +24,40 @@ SELECT * FROM `sale` INNER JOIN customers, movies;
 
 ![image](https://user-images.githubusercontent.com/121874446/220455209-ae178860-1d60-4b17-980c-ffa6c88acc84.png)
 
-#### 15. 
+#### 15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska.
+
+UPDATE customers SET pseudonim = concat(LEFT(name,2),RIGHT(surname,1));
+
+#### 16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały. 
+
+SELECT DISTINCT title FROM movies JOIN sale ON movies.movie_id = sale.movie_id
+
+![image](https://user-images.githubusercontent.com/121874446/220769358-a0e4a659-130a-4e06-84eb-7ef652c2525a.png)
+
+
+#### 17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie. 
+
+SELECT name FROM `actors` UNION SELECT name FROM customers order by name;
+
+![image](https://user-images.githubusercontent.com/121874446/220767795-396ef362-8347-4e81-8a40-e67a35428ca7.png)
+
+#### 18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $
+
+UPDATE movies SET price = price + 2.5 WHERE year_of_production >= 2000;
+
+![image](https://user-images.githubusercontent.com/121874446/220768510-8de946c6-fe0a-4ff1-bf43-028cba1947df.png)
+
+#### 19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał
+
+SELECT name,surname,title from actors JOIN cast ON actors.actor_id = cast.actor_id JOIN movies ON cast.movie_id = movies.movie_id WHERE actors.actor_id = 4;
+
+![image](https://user-images.githubusercontent.com/121874446/220769213-095ba429-2a25-43ba-99ba-dfc6d1956aca.png)
+
+#### 20.  A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa
+
+INSERT INTO customers VALUES ('7','Honia','Stuczka-Kucharska','honia@mail.com','Hoa');
+
+![image](https://user-images.githubusercontent.com/121874446/220770332-02a9022d-4f7b-4555-8a7b-6786d64c2e43.png)
 
 
 
