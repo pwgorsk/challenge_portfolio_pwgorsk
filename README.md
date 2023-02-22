@@ -60,6 +60,12 @@ INSERT INTO customers VALUES ('7','Honia','Stuczka-Kucharska','honia@mail.com','
 ![image](https://user-images.githubusercontent.com/121874446/220770332-02a9022d-4f7b-4555-8a7b-6786d64c2e43.png)
 
 
+### SUBTASK 2
+
+![image](https://user-images.githubusercontent.com/121874446/220773429-58f4470b-ca1b-4152-b069-ae28957e0800.png)
+
+
+
 
 
 # TASK 5
